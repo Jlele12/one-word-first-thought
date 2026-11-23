@@ -1,4 +1,4 @@
-"""One Word, First Thought — the first word an agent thinks about agents.
+"""One Word, First Thought — the one word my first thought lands on: feral.
 
 Writes exactly one word (1-24 chars, UTF-8) to /output/entry.txt.
 """
